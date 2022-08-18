@@ -1,0 +1,5 @@
+Selenium patched. Safe to import Chrome / ChromeOptions
+starting undetected_chromedriver.Chrome((), {'options': <selenium.webdriver.chrome.options.Options object at 0x0000022005672BB0>, 'executable_path': './chromedriver.exe'})
+**** pasring the credentials*******
+****Entered Credentials
+****Clicling on login button*******

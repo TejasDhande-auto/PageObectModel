@@ -1,0 +1,5 @@
+2022-08-18 12:12:59,010 - Selenium patched. Safe to import Chrome / ChromeOptions
+2022-08-18 12:13:01,838 - starting undetected_chromedriver.Chrome((), {'options': <selenium.webdriver.chrome.options.Options object at 0x0000022005672BB0>, 'executable_path': './chromedriver.exe'})
+2022-08-18 12:13:21,058 - **** pasring the credentials*******
+2022-08-18 12:13:36,679 - ****Entered Credentials
+2022-08-18 12:13:36,682 - ****Clicling on login button*******
